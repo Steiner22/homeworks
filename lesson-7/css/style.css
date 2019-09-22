@@ -1,0 +1,62 @@
+.container {
+  margin: 10% auto;
+  width: 1920px;
+  height: 723px;
+  background-color: #f9f9f9;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 561px;
+  height: 33px;
+  font-family: sans-serif;
+  font-size: 36px;
+  margin-bottom: 125px;
+  padding-top: 100px;
+  padding-left: 683px;
+  padding-right: 685px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.card {
+  text-align: center;
+  width: 263px;
+  height: 210px;
+  background-color: #ffffff;
+  margin: 0px 15px;
+}
+
+.name {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 300;
+  padding-top: 25px;
+  margin-bottom: 25px;
+}
+
+.price {
+  font-family: Tahoma;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+button {
+  width: 200px;
+  height: 55px;
+  border: 1px solid #23bac1;
+  background-color: #ffffff;
+  color: #23bac1;
+  font-family: Verdana;
+  font-size: 13px;
+  font-weight: 700;
+}
