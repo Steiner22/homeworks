@@ -1,0 +1,57 @@
+.text{
+  background-color: #AFEEEE;
+  font-size: 22px;
+}
+
+.color1 {
+  color: rgb(13 , 48, 130);
+  font-style: italic;
+}
+
+.chapter {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.color2 {
+  color: darkgreen;
+  font-weight: 700;
+}
+
+.color3 {
+  color: darkolivegreen;
+}
+
+.color4 {
+  color: #B8860B;
+}
+
+.color5 {
+  color: #8B4513;
+}
+
+.color6 {
+  color: #8B0000;
+}
+
+header {
+  margin-left: 3em;
+  margin-right: auto;
+  width: 60em;
+  font-size: 25px;
+}
+
+.menu {
+    position: fixed;
+    left: auto;
+    top: 200px;
+    bottom: auto;
+    right: 0;
+}
+
+.content {
+  display: block;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 400px;
+}
